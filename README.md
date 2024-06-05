@@ -1,2 +1,2 @@
 # Businees-Analytics-using-Qlik
-My project title is "Supply Chain Management"
+## My project title is-"Data-Driven Innovations In Supply Chain Management With Qlik Insights"
